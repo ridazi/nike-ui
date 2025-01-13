@@ -4,7 +4,7 @@ import Hero from './components/Hero'
 import Cards from './components/Cards'
 import Frame from './components/Frame'
 import Card2 from './components/Card2'
-import Join from './components/join'
+// import Join from './components/join'
 
 
 
@@ -19,7 +19,7 @@ const page = () => {
      <Cards/>
    <Frame/>
    <Card2/>
-<Join/>
+{/* <Join/> */}
   
    
    
